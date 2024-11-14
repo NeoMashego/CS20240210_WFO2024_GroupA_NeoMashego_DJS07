@@ -1,5 +1,5 @@
-import Header from "./Header.jsx"
-import Meme from "./Meme.jsx"
+import Header from "./components/Header.jsx"
+import Meme from "./components/Meme.jsx"
 
 function App() {
 
